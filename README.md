@@ -16,7 +16,7 @@
 ## 💻 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=go,js,ts,java,vue,react,linux,git&theme=light" />
+  <img src="https://skillicons.dev/icons?i=go,js,ts,java,vue,react,linux,git,neovim,vscode&theme=light" />
 </p>
 ## 🔗 Connect
 <p><a target="_blank" href="https://x.com/beauwen_tu" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a>
